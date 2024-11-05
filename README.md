@@ -1,36 +1,55 @@
 # [80 % OFF] Linux Foundation Coupons (Updated For November 2024)
 
-Looking for the latest Linux Foundation coupons codes? We got you covered.
+Looking for the latest Linux Foundation coupon codes? You’re in the right place!
 
-In this page you will get CKA , CKAD, CKS and all other Linux Foundation related discount codes for 2024. 
+On this page, you’ll find updated discount codes for CKA, CKAD, CKS, and other Linux Foundation certifications for 2024.
 
-As a community of CKAD, CKA, CKS professionals, we are committed to assisting you in obtaining these certifications at a significantly reduced price, saving you hundreds of dollars.
+As a community of certified CKAD, CKA, and CKS professionals, we’re here to help you achieve these certifications at a fraction of the cost—saving you hundreds of dollars.
 
-> Note: We update the Linux Foundation certification offers based on official notifications from the Linux Foundation. Feel free to bookmark this page to stay updated with the latest coupons.
+> **Update Note:** We update Linux Foundation certification offers every month or even weekly, based on official notifications. Bookmark this page to stay up-to-date with the latest discounts.
 
-Towards the end, we have added some inportant information about certification preparation and saving tips that will help you in your certification journey. Dont miss that!
+At the end of the page, we’ve also included valuable tips on exam preparation and additional ways to save on certifications. Be sure to check them out to make the most of your certification journey!
 
 ## [47% OFF] Kubernetes Certification Coupon (CKAD ,CKA, CKS, KCNA, KCSA) (Limited Time Kubecon Sale)
 
-Save 40% using Coupon code **NOV24KUBECT** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
+This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
 -  CKA Coupon ($395 —> $237): [kube.promo/cka](https://kube.promo/cka)
 -  CKAD Coupon ($395 —> $237): [kube.promo/ckad](https://kube.promo/ckad)
 -  CKS Coupon ($395 —> $237): [kube.promo/cks](https://kube.promo/cks)
 
-Use code **NOV24KUBECT** at checkout
+>**Coupon Code:** Use code **NOV24KUBECT** at checkout
 
-The following are the best bundles to save upto 40% with code **NOV24KUBE**
+Here are the certification and bundle discount details to help you **save up to 47%** with code **NOV24KUBECT**
 
--  Kubernetes KCNA $250  —> $150 : 
--  Kubernetes KCSA $250  —> $150 : 
--  ISTIO CERTIFIED ASSOCIATE $250  —> $150 : 
--  CKA + CKS  $725  —> $435 : 
--  CKA + CKAD + CKS $1095  —> $657 
--  KCNA + KCSA + CKA + CKAD + CKS $1495  —> $897 
--  KCNA + CKA ( $288 Savings)
--  KCSA + CKS Exam Bundle ($229 Savings) 
--  KCNA + KCSA Exam Bundle ($203 Savings) 
+| Certification / Bundle | Original Price | Discounted Price | Savings | Link |
+| --- | --- | --- | --- | --- |
+| **Kubernetes and Cloud Native Associate (KCNA)** | $250 | $150.00 | $100.00 | [KCNA Certification](https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-associate-kcna/) |
+| **Kubernetes Security Associate (KCSA)** | $250 | $150.00 | $100.00 | [KCSA Certification](https://training.linuxfoundation.org/certification/kubernetes-security-associate-ksca/) |
+| **Certified Kubernetes Administrator (CKA)** | $395 | $237.00 | $158.00 | [CKA Certification](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) |
+| **Certified Kubernetes Application Developer (CKAD)** | $395 | $237.00 | $158.00 | [CKAD Certification](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) |
+| **Certified Kubernetes Security Specialist (CKS)** | $395 | $237.00 | $158.00 | [CKS Certification](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist-cks/) |
+| **CKA + CKS Bundle** | $725 | $435.00 | $290.00 | [CKA + CKS Bundle](https://training.linuxfoundation.org/certification/cka-cks-exam-bundle/) |
+| **CKA + CKAD + CKS Bundle** | $1,095 | $657.00 | $438.00 | [CKA + CKAD + CKS Bundle](https://training.linuxfoundation.org/certification/cka-ckad-cks-exam-bundle/) |
+| **KCNA + KCSA + CKA + CKAD + CKS (Kubestronaut Bundle)** | $1,495 | $897.00 | $598.00 | [Kubestronaut Bundle](https://training.linuxfoundation.org/certification/kubestronaut-bundle/) |
+| **KCNA + CKA** | $788 | $472.80 | $315.20 | [KCNA + CKA Bundle](https://training.linuxfoundation.org/certification/kcnacka-cert-bundle) |
+| **KCSA + CKS Exam Bundle** | $729 | $437.40 | $291.60 | [KCSA + CKS Bundle](https://training.linuxfoundation.org/certification/ksca-cks-exam-bundle) |
+| **KCNA + KCSA Exam Bundle** | $703 | $421.80 | $281.20 | [KCNA + KCSA Bundle](https://training.linuxfoundation.org/certification/kcna-ksca-exam-bundle) |
+
+Following are the certification and bundle discount details to help you **save up to 35%** with code **ROAD2KUBECT**
+
+| Certification / Bundle | Original Price | Discounted Price | Savings | Link |
+| --- | --- | --- | --- | --- |
+| **Professional Certified Administrator (PCA) - Istio** | $300 | $210.00 | $90.00 | [PCA - Istio Certification](https://training.linuxfoundation.org/certification/professional-certified-administrator-istio/) |
+| **ArgoCD Certification** | $250 | $175.00 | $75.00 | [ArgoCD Certification](https://training.linuxfoundation.org/certification/argocd-certification/) |
+| **Linux Foundation Certified System Administrator (LFCS)** | $350 | $245.00 | $105.00 | [LFCS Certification](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) |
+| **Linux Foundation Certified Engineer (LFCE)** | $450 | $315.00 | $135.00 | [LFCE Certification](https://training.linuxfoundation.org/certification/linux-foundation-certified-engineer-lfce/) |
+| **Hyperledger Certified Service Provider (HCSP)** | $400 | $280.00 | $120.00 | [HCSP Certification](https://training.linuxfoundation.org/certification/hyperledger-certified-service-provider-hcsp/) |
+| **OpenJS Node.js Application Developer (JSNAD)** | $300 | $210.00 | $90.00 | [JSNAD Certification](https://training.linuxfoundation.org/certification/openjs-node-js-application-developer-jsnad/) |
+| **Cloud Foundry Certified Developer (CFCD)** | $375 | $262.50 | $112.50 | [CFCD Certification](https://training.linuxfoundation.org/certification/cloud-foundry-certified-developer-cfcd/) |
+| **Open Source Virtualization Certification (OSVC)** | $350 | $245.00 | $105.00 | [OSVC Certification](https://training.linuxfoundation.org/certification/open-source-virtualization-certification-osvc/) |
+| **LFCS + LFCE Bundle** | $800 | $560.00 | $240.00 | [LFCS + LFCE Bundle](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-and-engineer-bundle/) |
+| **OpenJS Node.js (JSNAD + JSNSD) Bundle** | $500 | $350.00 | $150.00 | [OpenJS Node.js Bundle](https://training.linuxfoundation.org/certification/openjs-node-js-certification-bundle-jsnad-jsnsd/) |
 
 ## [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) 
 
@@ -70,6 +89,14 @@ If you’re planning to take the CKA or CKS certification and are looking for a 
 - [CKS Study Guide 2024 ](https://devopscube.com/cks-exam-guide-tips/)<sup>Blog</sup>
 
 
+## Linux Foundation Cyber Monday & Black Friday Deal 2024
+
+The Linux Foundation has not yet announced specific details for their Cyber Monday and Black Friday deals for 2024. 
+
+Historically, they have offered significant discounts during this period. For instance, in previous years, discounts have reached up to 65% on certification bundles and courses.
+
+We will update this repo once the Cyber Monday deal is live.
+
 ## Recomended Linux Foundation Cerifications
 
 Here’s an overview of some key certifications from the Linux Foundation that are highly regarded, especially for those looking to work in open source, cloud computing, and DevOps roles:
@@ -88,9 +115,7 @@ Here's a table with some specific Linux Foundation certifications.
 | **Linux Foundation Certified System Administrator (LFCS)** | Entry-level certification focused on basic Linux system administration tasks.                              | User management, storage, networking, and essential system services.                           | Aspiring Linux system administrators.             | Basic knowledge of Linux and command-line usage. |
 
 
-## How to prepare of Kubernere Certifiation?
-
-# How to Prepare for Kubernetes Certification
+## How to prepare of Kubernetes Certifiation?
 
 Preparing for a Kubernetes certification like **Certified Kubernetes Administrator (CKA)**, **Certified Kubernetes Application Developer (CKAD)**, or **Certified Kubernetes Security Specialist (CKS)** requires a good mix of theory and hands-on practice. Here’s a simple guide to help you prepare effectively:
 
@@ -112,7 +137,7 @@ Preparing for a Kubernetes certification like **Certified Kubernetes Administrat
    - **Application Lifecycle Management**: Understand how to deploy, manage, and troubleshoot applications.
 
 ### 4. Use Interactive Learning Platforms
-   - **Kubernetes Playground**: Try free playgrounds like **Katacoda** or **Play with Kubernetes** to practice without setting up locally.
+   - **Kubernetes Playground**: Try free playgrounds like **Killercoda** or **Play with Kubernetes** to practice without setting up locally.
    - **KodeKloud**: Offers scenario-based labs for hands-on Kubernetes tasks, covering most certification topics.
    - **Linux Foundation Courses**: They offer CKA, CKAD, and CKS courses that provide an in-depth understanding and practice labs.
 

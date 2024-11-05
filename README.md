@@ -20,7 +20,7 @@ Save 40% using Coupon code **NOV24KUBECT** on all the Linux Foundation training 
 
 Use code **NOV24KUBECT** at checkout
 
-The following are the best bundles to save upto 40% with code NOV24KUBE
+The following are the best bundles to save upto 40% with code **NOV24KUBE**
 
 -  Kubernetes KCNA $250  —> $150 : 
 -  Kubernetes KCSA $250  —> $150 : 

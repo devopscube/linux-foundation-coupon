@@ -10,7 +10,7 @@ As a community of certified CKAD, CKA, and CKS professionals, we’re here to he
 
 At the end of the page, we’ve also included valuable tips on exam preparation and additional ways to save on certifications. Be sure to check them out to make the most of your certification journey!
 
-## [47% OFF] Kubernetes Certification Coupon (CKAD ,CKA, CKS, KCNA, KCSA) (Limited Time Kubecon Sale)
+## [47% OFF] Kubernetes Certification Coupon (CKAD ,CKA, CKS, KCNA, KCSA) (Last Day)
 
 This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
@@ -19,6 +19,8 @@ This is a limited-time offer for this month. This offer is applicable for CKA, C
 -  CKS Coupon ($395 —> $237): [kube.promo/cks](https://kube.promo/cks)
 
 >**Coupon Code:** Use code **NOV24KUBECT** at checkout
+
+>This offer is expiring today. So Locking the price as soon as possible.
 
 Here are the certification and bundle discount details to help you **save up to 47%** with code **NOV24KUBECT**
 

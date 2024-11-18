@@ -14,15 +14,17 @@ At the end of the page, we’ve also included valuable tips on exam preparation 
 
 This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
+**Coupon Code:** Use code **40NOV24CT** at [Kube.promo/devops](https://kube.promo/devops)
+
 -  CKA Coupon ($395 —> $237): [kube.promo/cka](https://kube.promo/cka)
 -  CKAD Coupon ($395 —> $237): [kube.promo/ckad](https://kube.promo/ckad)
 -  CKS Coupon ($395 —> $237): [kube.promo/cks](https://kube.promo/cks)
 
->**Coupon Code:** Use code **NOV24KUBECT** at checkout
+You will get up to 47% diuscoun when you purchase a certification bundle from the Linux Foundation.
 
->This offer is expiring today. So Locking the price as soon as possible.
+>**Note**: This offer is expiring soon. So Locking the price as soon as possible.
 
-Here are the certification and bundle discount details to help you **save up to 47%** with code **NOV24KUBECT**
+Here are the certification and bundle discount details to help you **save up to 47%** with code **40NOV24CT**
 
 | Certification / Bundle | Original Price | Discounted Price | Savings | Link |
 | --- | --- | --- | --- | --- |

@@ -10,7 +10,7 @@ As a community of certified CKAD, CKA, and CKS professionals, we’re here to he
 
 At the end of the page, we’ve also included valuable tips on exam preparation and additional ways to save on certifications. Be sure to check them out to make the most of your certification journey!
 
-## [47% OFF] Kubernetes Certification Coupon (CKAD ,CKA, CKS, KCNA, KCSA) (Last Day)
+## [47% OFF] Kubernetes Certification Coupon (CKA ,CKAD, CKS, KCNA, KCSA) (Last Day)
 
 This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
@@ -43,7 +43,7 @@ Here are the certification and bundle discount details to help you **save up to 
 | **KCNA + KCSA Exam Bundle** | $703 | $421.80 | $281.20 | [KCNA + KCSA Bundle](https://training.linuxfoundation.org/certification/kcna-ksca-exam-bundle) |
 
 
-## [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) 
+## [40% OFF] Kubernetes Certification Coupon (CKA ,CKAD, CKS, KCNA, KCSA)
 
 Save up to 40% using Coupon code **DCUBE30** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 

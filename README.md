@@ -24,6 +24,8 @@ You will get up to 47% diuscoun when you purchase a certification bundle from th
 
 >**Note**: This offer is expiring soon. So Locking the price as soon as possible.
 
+>🔔 **Price Increase Alert** 🔔 : The prices for CKA, CKAD, and CKS certifications are set to increase from $395 to $435 starting January 2025. Take advantage of the current discounts and secure your certification at the lower price now! 🚀
+
 Here are the certification and bundle discount details to help you **save up to 47%** with code **40NOV24CT**
 
 | Certification / Bundle | Original Price | Discounted Price | Savings | Link |
@@ -40,8 +42,6 @@ Here are the certification and bundle discount details to help you **save up to 
 | **KCSA + CKS Exam Bundle** | $729 | $437.40 | $291.60 | [KCSA + CKS Bundle](https://training.linuxfoundation.org/certification/ksca-cks-exam-bundle) |
 | **KCNA + KCSA Exam Bundle** | $703 | $421.80 | $281.20 | [KCNA + KCSA Bundle](https://training.linuxfoundation.org/certification/kcna-ksca-exam-bundle) |
 
-
-> 🔔 **Price Increase Alert** 🔔 : The prices for CKA, CKAD, and CKS certifications are set to increase from $395 to $435 starting January 2025. Take advantage of the current discounts and secure your certification at the lower price now! 🚀
 
 ## [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) 
 

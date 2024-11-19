@@ -40,20 +40,8 @@ Here are the certification and bundle discount details to help you **save up to 
 | **KCSA + CKS Exam Bundle** | $729 | $437.40 | $291.60 | [KCSA + CKS Bundle](https://training.linuxfoundation.org/certification/ksca-cks-exam-bundle) |
 | **KCNA + KCSA Exam Bundle** | $703 | $421.80 | $281.20 | [KCNA + KCSA Bundle](https://training.linuxfoundation.org/certification/kcna-ksca-exam-bundle) |
 
-Following are the certification and bundle discount details to help you **save up to 35%** with code **ROAD2KUBECT**
 
-| Certification / Bundle | Original Price | Discounted Price | Savings | Link |
-| --- | --- | --- | --- | --- |
-| **Professional Certified Administrator (PCA) - Istio** | $300 | $210.00 | $90.00 | [PCA - Istio Certification](https://training.linuxfoundation.org/certification/professional-certified-administrator-istio/) |
-| **ArgoCD Certification** | $250 | $175.00 | $75.00 | [ArgoCD Certification](https://training.linuxfoundation.org/certification/argocd-certification/) |
-| **Linux Foundation Certified System Administrator (LFCS)** | $350 | $245.00 | $105.00 | [LFCS Certification](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) |
-| **Linux Foundation Certified Engineer (LFCE)** | $450 | $315.00 | $135.00 | [LFCE Certification](https://training.linuxfoundation.org/certification/linux-foundation-certified-engineer-lfce/) |
-| **Hyperledger Certified Service Provider (HCSP)** | $400 | $280.00 | $120.00 | [HCSP Certification](https://training.linuxfoundation.org/certification/hyperledger-certified-service-provider-hcsp/) |
-| **OpenJS Node.js Application Developer (JSNAD)** | $300 | $210.00 | $90.00 | [JSNAD Certification](https://training.linuxfoundation.org/certification/openjs-node-js-application-developer-jsnad/) |
-| **Cloud Foundry Certified Developer (CFCD)** | $375 | $262.50 | $112.50 | [CFCD Certification](https://training.linuxfoundation.org/certification/cloud-foundry-certified-developer-cfcd/) |
-| **Open Source Virtualization Certification (OSVC)** | $350 | $245.00 | $105.00 | [OSVC Certification](https://training.linuxfoundation.org/certification/open-source-virtualization-certification-osvc/) |
-| **LFCS + LFCE Bundle** | $800 | $560.00 | $240.00 | [LFCS + LFCE Bundle](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-and-engineer-bundle/) |
-| **OpenJS Node.js (JSNAD + JSNSD) Bundle** | $500 | $350.00 | $150.00 | [OpenJS Node.js Bundle](https://training.linuxfoundation.org/certification/openjs-node-js-certification-bundle-jsnad-jsnsd/) |
+> 🔔 **Price Increase Alert** 🔔 : The prices for CKA, CKAD, and CKS certifications are set to increase from $395 to $435 starting January 2025. Take advantage of the current discounts and secure your certification at the lower price now! 🚀
 
 ## [40% OFF] Kubernetes Certification Coupon (CKAD , CKA , CKS) 
 
@@ -100,6 +88,23 @@ The Linux Foundation has not yet announced specific details for their Cyber Mond
 Historically, they have offered significant discounts during this period. For instance, in previous years, discounts have reached up to 65% on certification bundles and courses.
 
 We will update this repo once the Cyber Monday deal is live.
+
+## 35% OFF Linux Foundation Offer [Expired]
+
+Following are the certification and bundle discount details to help you **save up to 35%** with code **ROAD2KUBECT**
+
+| Certification / Bundle | Original Price | Discounted Price | Savings | Link |
+| --- | --- | --- | --- | --- |
+| **Professional Certified Administrator (PCA) - Istio** | $300 | $210.00 | $90.00 | [PCA - Istio Certification](https://training.linuxfoundation.org/certification/professional-certified-administrator-istio/) |
+| **ArgoCD Certification** | $250 | $175.00 | $75.00 | [ArgoCD Certification](https://training.linuxfoundation.org/certification/argocd-certification/) |
+| **Linux Foundation Certified System Administrator (LFCS)** | $350 | $245.00 | $105.00 | [LFCS Certification](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) |
+| **Linux Foundation Certified Engineer (LFCE)** | $450 | $315.00 | $135.00 | [LFCE Certification](https://training.linuxfoundation.org/certification/linux-foundation-certified-engineer-lfce/) |
+| **Hyperledger Certified Service Provider (HCSP)** | $400 | $280.00 | $120.00 | [HCSP Certification](https://training.linuxfoundation.org/certification/hyperledger-certified-service-provider-hcsp/) |
+| **OpenJS Node.js Application Developer (JSNAD)** | $300 | $210.00 | $90.00 | [JSNAD Certification](https://training.linuxfoundation.org/certification/openjs-node-js-application-developer-jsnad/) |
+| **Cloud Foundry Certified Developer (CFCD)** | $375 | $262.50 | $112.50 | [CFCD Certification](https://training.linuxfoundation.org/certification/cloud-foundry-certified-developer-cfcd/) |
+| **Open Source Virtualization Certification (OSVC)** | $350 | $245.00 | $105.00 | [OSVC Certification](https://training.linuxfoundation.org/certification/open-source-virtualization-certification-osvc/) |
+| **LFCS + LFCE Bundle** | $800 | $560.00 | $240.00 | [LFCS + LFCE Bundle](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-and-engineer-bundle/) |
+| **OpenJS Node.js (JSNAD + JSNSD) Bundle** | $500 | $350.00 | $150.00 | [OpenJS Node.js Bundle](https://training.linuxfoundation.org/certification/openjs-node-js-certification-bundle-jsnad-jsnsd/) |
 
 ## Recomended Linux Foundation Cerifications
 

@@ -1,4 +1,4 @@
-# [80 % OFF] Linux Foundation Coupons (Updated For November 2024)
+# [80% OFF] Linux Foundation Coupons (Updated For November 2024)
 
 Looking for the latest Linux Foundation coupon codes? You’re in the right place!
 
@@ -41,6 +41,14 @@ Here are the certification and bundle discount details to help you **save up to 
 | **KCNA + CKA** | $788 | $472.80 | $315.20 | [KCNA + CKA Bundle](https://training.linuxfoundation.org/certification/kcnacka-cert-bundle) |
 | **KCSA + CKS Exam Bundle** | $729 | $437.40 | $291.60 | [KCSA + CKS Bundle](https://training.linuxfoundation.org/certification/ksca-cks-exam-bundle) |
 | **KCNA + KCSA Exam Bundle** | $703 | $421.80 | $281.20 | [KCNA + KCSA Bundle](https://training.linuxfoundation.org/certification/kcna-ksca-exam-bundle) |
+
+## [65% OFF] Linux Foundation Cyber Monday Sale 2024 (Starts From December 2nd)
+
+Mark Your Calendar - Cyber Monday deals coming soon!
+
+The cyber monday deals are set to go live next month (December 2nd).
+
+You can save up to 65% on certificatios such as CKA, CKAD etc during this deal.
 
 
 ## [40% OFF] Kubernetes Certification Coupon (CKA ,CKAD, CKS, KCNA, KCSA)
